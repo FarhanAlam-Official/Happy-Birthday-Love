@@ -306,3 +306,9 @@ Feel free to submit issues and enhancement requests!
 ## 📜 License
 
 MIT License - feel free to use this template for personal projects.
+
+---
+
+**Built with ❤️ by [Farhan Alam](https://github.com/FarhanAlam-Official)**
+
+If you use this template, please give credit by linking back to the repository.

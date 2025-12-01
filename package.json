@@ -1,6 +1,7 @@
 {
   "name": "birthday-website-template",
   "version": "1.0.0",
+  "author": "Farhan Alam (https://github.com/FarhanAlam-Official)",
   "private": true,
   "scripts": {
     "build": "next build",

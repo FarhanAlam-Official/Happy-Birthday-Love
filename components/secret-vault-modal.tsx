@@ -1,5 +1,5 @@
 "use client"
-
+// Original template: github.com/FarhanAlam-Official
 import type React from "react"
 
 import { useState, useEffect } from "react"

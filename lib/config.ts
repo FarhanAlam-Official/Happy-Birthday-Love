@@ -1,4 +1,5 @@
 // ❤️ BIRTHDAY WEBSITE - CONFIGURATION FILE ❤️
+// Created by Farhan Alam | GitHub: github.com/FarhanAlam-Official
 // Edit this file to personalize everything for your love!
 
 export const config = {

@@ -1,6 +1,6 @@
-"use client"
-
-import { useState } from "react"
+"use client";
+// Original template by Farhan Alam (github.com/FarhanAlam-Official)
+import { useState } from "react";
 import { motion, AnimatePresence } from "framer-motion"
 import { X, ChevronLeft, ChevronRight, Lock, Grid3X3, RotateCcw } from "lucide-react"
 import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs"

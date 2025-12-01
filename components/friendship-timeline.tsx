@@ -1,5 +1,5 @@
 "use client"
-
+/* Original by Farhan Alam - github.com/FarhanAlam-Official */
 import { useRef, useState } from "react"
 import { motion, useScroll } from "framer-motion"
 import { config } from "@/lib/config"

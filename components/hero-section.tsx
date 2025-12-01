@@ -1,5 +1,5 @@
 "use client"
-
+// Template by Farhan Alam - github.com/FarhanAlam-Official
 import { useEffect } from "react"
 import { motion } from "framer-motion"
 import { Heart, Sparkles } from "lucide-react"

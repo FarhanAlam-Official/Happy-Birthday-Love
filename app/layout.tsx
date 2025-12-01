@@ -10,6 +10,8 @@ const geistMono = Geist_Mono({ subsets: ["latin"], variable: "--font-geist-mono"
 export const metadata: Metadata = {
   title: "Happy Birthday My Love ❤️",
   description: "A special birthday surprise for someone you love",
+  creator: "Farhan Alam",
+  authors: [{ name: "Farhan Alam", url: "https://github.com/FarhanAlam-Official" }],
   generator: "v0.app",
   icons: {
     icon: [

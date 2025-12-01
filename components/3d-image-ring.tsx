@@ -1,5 +1,5 @@
 "use client";
-
+/* Template by Farhan Alam - github.com/FarhanAlam-Official */
 import React, { useEffect, useRef, useState, useMemo } from "react";
 import { motion, AnimatePresence, useMotionValue } from "framer-motion";
 import { cn } from "@/lib/utils";
