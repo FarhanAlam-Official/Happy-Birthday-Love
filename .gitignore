@@ -74,9 +74,25 @@ logs
 tmp/
 temp/
 
-# Personal images - Keep structure but ignore actual image files
-# Users should add their own images to these directories
-public/images/**/*
+# Image files configuration
+# Allow generic demo/placeholder images for showcase
+# Generic placeholder images (for demo/template showcase)
+!public/images/birthday-card.jpg
+!public/images/birthday-video.mp4
+!public/images/hero/**/*.jpg
+!public/images/hero/**/*.jpeg
+!public/images/hero/**/*.png
+!public/images/gallery/**/*.jpg
+!public/images/gallery/**/*.jpeg
+!public/images/gallery/**/*.png
+!public/images/timeline/**/*.jpg
+!public/images/timeline/**/*.jpeg
+!public/images/timeline/**/*.png
+!public/images/secret/**/*.jpg
+!public/images/secret/**/*.jpeg
+!public/images/secret/**/*.png
+
+# Keep .gitkeep files
 !public/images/**/.gitkeep
 !public/images/birthday-card.jpg
 !public/images/birthday-video.mp4
